@@ -7,5 +7,7 @@
 	<body>
 		<h1>Hello</h1>
 		<p>This is a GIT test</p>
+		<h2>We hope you like it</h2>
+		<p>And here's even more onzin</p>
 	</body>
 </html>
