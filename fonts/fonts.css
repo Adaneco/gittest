@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'junctionregularRegular';
+	src: url('Junction.eot');
+	src: local('junction regular'), local('junctionregular'), url('Junction.woff') format('woff'), url('Junction.ttf') format('truetype'), url('Junction.svg#junctionregular') format('svg');
+}
+@font-face {
+	font-family: 'TrueCrimesRegular';
+	src: url('true-crimes.eot');
+	src: local('True Crimes'), local('TrueCrimes'), url('true-crimes.woff') format('woff'), url('true-crimes.ttf') format('truetype'), url('true-crimes.svg#TrueCrimes') format('svg');
+}
