@@ -8,7 +8,7 @@
 	<body>
 		<div class="bigtext">
 			<div class="bigtext_wrap">
-				<h1>Welcome to <span>git test</span></h1>
+				<h1>Welcome to <br /><span>git test</span></h1>
 				<p>This is a <a href="#" title="Go to the GIT website">GIT</a> test.<br /> A repository to show how <a href="#" title="Go to the GIT website">GIT</a> works.</p>
 				<br />
 			</div>
