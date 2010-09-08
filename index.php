@@ -9,7 +9,7 @@
 		<div class="bigtext">
 			<div class="bigtext_wrap">
 				<h1><span>ACME Inc.</span></h1>
-				<p>ACME Inc. Development blog for developers.</p>
+				<p>Development blog for developers.</p>
 				<br />
 			</div>
 		</div>
